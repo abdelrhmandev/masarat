@@ -1,0 +1,44 @@
+.introjs-tooltip{
+    border-radius: 16px;    
+}
+
+.introjs-nextbutton{ 
+    color: white;
+    float: left;
+}
+
+.introjs-button {
+    font-family: cairo !important;
+    background: #5850EC !important;
+    border: 1px solid transparent;
+    border-radius: 15px !important;
+    color: white;
+    text-transform: capitalize;
+    padding: 5px 15px;
+    text-shadow: none;
+    /* box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 3px 0 rgba(0, 0, 0, 0.1),
+        0 1px 3px 0 rgba(0, 0, 0, 0.1); */
+}
+
+.introjs-progressbar {
+    background-color: #5850EC;
+}
+ 
+.introjs-dontShowAgain input {
+    padding: 0px 0px 0px 0px;
+    color: #5850EC;
+    border-color: #e0e0e0;
+    border-radius: 10px;
+}
+
+.introjs-arrow.bottom{
+    display: none !important;
+}
+
+.introjs-helperLayer{
+    background: none !important;
+}
+
+.introjs-dontShowAgain label {   
+    font-size: 12px;      
+}
